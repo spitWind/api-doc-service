@@ -27,5 +27,6 @@
     "API",
     "Documentation",
     "Service"
-  ]
+  ],
+  types:"index.d.ts"
 }
